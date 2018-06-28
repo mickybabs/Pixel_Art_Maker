@@ -1,3 +1,4 @@
+
 body {
     text-align: center;
 }
@@ -34,5 +35,16 @@ td {
 }
 
 input[type=number] {
-    width: 6em;
+   font-size: 1.1rem;
+  padding: 4px;
+  width: 4em;
+}
+
+input[type="submit"] {
+  padding: 5px;
+}
+
+#colorPicker {
+  width:76px;
+  height: 35px;
 }
